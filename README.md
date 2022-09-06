@@ -8,7 +8,7 @@
 
 - [Project description](#Project-description)
 
-- [Courses](#Courses)
+- [Origin of learning](#Origin-of-learning)
 
 - [Technologies used](#Technologies-used)
  
@@ -16,9 +16,9 @@
 
 ## Project Description
 
-Program that browsed websites looking for phone information.
+This project has a goal the compilation of the many practiced exercises and examples during the process learning.
 
-## Courses
+## Origin of learning
 
 :heavy_check_mark: `Course 1:` Bylearn
 
