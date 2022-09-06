@@ -20,7 +20,7 @@ This project has a goal the compilation of the many practiced exercises and exam
 
 ## Origin of learning
 
-:heavy_check_mark: `Course 1:` Bylearn
+:heavy_check_mark: `Source:` Bylearn
 
 ## Technologies used
 <p>
